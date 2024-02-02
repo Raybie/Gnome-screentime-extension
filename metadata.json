@@ -1,0 +1,8 @@
+{
+  "name": "Rayxtension",
+  "description": "My custom extension",
+  "uuid": "rayxtension",
+  "shell-version": [
+    "43"
+  ]
+}
