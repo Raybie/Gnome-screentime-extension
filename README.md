@@ -1,0 +1,1 @@
+# Gnome screentime extension
