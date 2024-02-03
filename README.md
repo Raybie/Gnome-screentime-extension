@@ -10,5 +10,8 @@ This is a gnome extension that shows your daily screentime.
 ## Preview
 ![Image](preview.png)
 
+## Support me
+[Ko-fi](https://ko-fi.com/raybie_)
+
 ## Disclaimer
 This extension keeps track even when disabled.
