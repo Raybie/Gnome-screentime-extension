@@ -15,3 +15,4 @@ This is a gnome extension that shows your daily screentime.
 
 ## Disclaimer
 This extension keeps track even when disabled.
+Some applications will not be recognized properly.
