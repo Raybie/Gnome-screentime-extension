@@ -14,5 +14,5 @@ This is a gnome extension that shows your daily screentime.
 - [Ko-fi](https://ko-fi.com/raybie_)
 
 ## Disclaimer
-This extension keeps track even when disabled.
-Some applications will not be recognized properly.
+- This extension keeps track even when disabled. 
+- Some applications will not be recognized properly.
