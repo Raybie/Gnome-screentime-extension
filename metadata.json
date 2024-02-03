@@ -1,7 +1,7 @@
 {
-  "name": "Rayxtension",
+  "name": "Screentime extension",
   "description": "My custom extension",
-  "uuid": "rayxtension",
+  "uuid": "Gnome-screentime-extension",
   "shell-version": [
     "43"
   ]
