@@ -1,0 +1,27 @@
+{
+  "2024-02-03": {
+    "time": 186,
+    "application": {
+      "Unknown": [
+        "Unknown",
+        1
+      ],
+      "Mozilla Firefox": [
+        "Mozilla Firefox",
+        128
+      ],
+      "shell": [
+        "shell",
+        6
+      ],
+      "Visual Studio Code": [
+        "Visual Studio Code",
+        2
+      ],
+      "File Upload": [
+        "File Upload",
+        44
+      ]
+    }
+  }
+}

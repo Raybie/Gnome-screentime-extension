@@ -1,0 +1,8 @@
+{
+  "name": "Screentime extension",
+  "description": "Shows you your daily screentime.",
+  "uuid": "screentime-extension",
+  "shell-version": [
+    "43"
+  ]
+}
