@@ -8,7 +8,7 @@ This is a gnome extension that shows your daily screentime.
 - Shows top 5 application time daily.
   
 ## Preview
-![Image](preview.png)
+![Image](Preview.png)
 
 ## Support me
 - [Ko-fi](https://ko-fi.com/raybie_)
