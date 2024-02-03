@@ -1,8 +1,0 @@
-{
-  "name": "Screentime extension",
-  "description": "Gnome extension that shows daily screentime.",
-  "uuid": "Gnome-screentime-extension",
-  "shell-version": [
-    "43"
-  ]
-}
